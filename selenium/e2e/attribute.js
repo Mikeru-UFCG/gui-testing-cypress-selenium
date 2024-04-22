@@ -59,5 +59,37 @@ describe('attributes', () => {
     // Implement your test case 3 code here
   });
 
+  it('test case 4', async () => {
+    // Implement your test case 4 code here
+  });
+
+  it('test case 5', async () => {
+    // Implement your test case 5 code here
+  });
+
+  it('test case 6', async () => {
+    // Implement your test case 6 code here
+  });
+
+  it('test case 7', async () => {
+    // Implement your test case 7 code here
+  });
+
+  it('test case 8', async () => {
+    // Implement your test case 8 code here
+  });
+
+  it('test case 9', async () => {
+    // Implement your test case 9 code here
+  });
+
+  it('test case 10', async () => {
+    // Implement your test case 10 code here
+  });
+
+  it('test case 11', async () => {
+    // Implement your test case 11 code here
+  });
+
   // Implement the remaining test cases in a similar manner
 });
